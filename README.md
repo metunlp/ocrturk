@@ -124,10 +124,6 @@ Per-image-pair metrics:
 Aggregated statistics across all documents and images.
 
 
-## License
-
-[Add your license here]
-
 ## Citation
 
 If you use this tool in your research, please cite:
