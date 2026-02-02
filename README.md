@@ -1,4 +1,4 @@
-# OCRTurk Benchmark 
+# OCRTurk Benchmark 🇹🇷
 
 A comprehensive evaluation framework for comparing OCR model outputs against ground truth data. This tool provides detailed metrics for text, equations, tables, and images extracted from documents.
 
@@ -25,19 +25,19 @@ pip install -r requirements.txt
 ### Basic Usage
 
 ```bash
-python eval.py <ground_truth_path> <model_output_path> <image_folder> [results_path]
+python eval.py <ground_truth_path> <model_output_path> [results_path]
 ```
 
 ### With Image Metrics
 
 ```bash
-python eval.py <ground_truth_path> <model_output_path> <image_folder> [results_path] --images
+python eval.py <ground_truth_path> <model_output_path> [results_path] --images
 ```
 
 ### Example
 
 ```bash
-python eval.py ./data/ground_truth ./data/model_outputs ./data/images ./results --images
+python eval.py ./data/ground_truth ./data/model_outputs ./results --images
 ```
 
 ## Directory Structure
