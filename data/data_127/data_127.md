@@ -1,0 +1,293 @@
+Tablo 6. Ölçek İlişkilerine Ait Korelasyon Sonuçları (n=200)
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2" rowspan="2"></th>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+      <th>9</th>
+      <th>10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan="2" class="label-col">1-Yapay Zeka Okuryazarlığı Ölçeği</th>
+      <td>r</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">2-Farkındalık</th>
+      <td>r</td>
+      <td>,764**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">3-Kullanım</th>
+      <td>r</td>
+      <td>,839**</td>
+      <td>,610**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">4-Değerlendirme</th>
+      <td>r</td>
+      <td>,840**</td>
+      <td>,506**</td>
+      <td>,654**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">5-Etik</th>
+      <td>r</td>
+      <td>,570**</td>
+      <td>,219**</td>
+      <td>,254**</td>
+      <td>,307**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>0,002</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">6-Üretken Yapay Zeka Kabul Ölçeği</th>
+      <td>r</td>
+      <td>,507**</td>
+      <td>,510**</td>
+      <td>,452**</td>
+      <td>,414**</td>
+      <td>,152*</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>0,032</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">7-Performans Beklentisi</th>
+      <td>r</td>
+      <td>,381**</td>
+      <td>,364**</td>
+      <td>,353**</td>
+      <td>,287**</td>
+      <td>,150*</td>
+      <td>,813**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>0,034</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">8-Çaba Beklentisi</th>
+      <td>r</td>
+      <td>,615**</td>
+      <td>,549**</td>
+      <td>,607**</td>
+      <td>,500**</td>
+      <td>,193**</td>
+      <td>,778**</td>
+      <td>,478**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>0,006</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">9-Kolaylaştırıcı Koşullar</th>
+      <td>r</td>
+      <td>,489**</td>
+      <td>,447**</td>
+      <td>,390**</td>
+      <td>,401**</td>
+      <td>,240**</td>
+      <td>,791**</td>
+      <td>,545**</td>
+      <td>,654**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2" class="label-col">10-Sosyal Etki</th>
+      <td>r</td>
+      <td>,161*</td>
+      <td>,270**</td>
+      <td>0,096</td>
+      <td>,161*</td>
+      <td>-0,045</td>
+      <td>,729**</td>
+      <td>,386**</td>
+      <td>,366**</td>
+      <td>,480**</td>
+      <td style="background-color: #f0f0f0;">1</td>
+    </tr>
+    <tr>
+      <td>p</td>
+      <td>0,022</td>
+      <td>&lt;0,001</td>
+      <td>0,175</td>
+      <td>0,023</td>
+      <td>0,528</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td>&lt;0,001</td>
+      <td style="background-color: #f0f0f0;"></td>
+    </tr>
+  </tbody>
+</table>
+
+*Korelasyon 0,05 düzeyinde anlamlıdır (Pearson korelasyon testi), ** Korelasyon 0,01 düzeyinde anlamlıdır (Pearson korelasyon testi)
