@@ -1028,14 +1028,12 @@ if __name__ == "__main__":
         sys.exit(1)
     
     ground_truth_path = sys.argv[1]
-    model_output_path = sys.argv[2]
-    image_folder = sys.argv[3]
-    
+    model_output_path = sys.argv[2]    
     run_images = "--images" in sys.argv
     if run_images:
         sys.argv.remove("--images")
     
-    results_path = sys.argv[4] if len(sys.argv) > 3 else "./eval_results"
+    results_path = sys.argv[3] if len(sys.argv) > 3 else "./eval_results"
     
     paths = PathConfig(
         ground_truth_root=Path(ground_truth_path),
