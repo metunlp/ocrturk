@@ -1,6 +1,6 @@
 # OCRTurk Benchmark 🇹🇷
 
-A comprehensive evaluation framework for comparing OCR model outputs against ground truth data. This tool provides detailed metrics for text, equations, tables, and images extracted from documents.
+A comprehensive evaluation framework for comparing OCR model outputs against Turkish Real-World data. This tool provides detailed metrics for text, equations, tables, and images extracted from documents.
 
 ## Features
 
