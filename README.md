@@ -109,14 +109,13 @@ Per-document metrics including:
 - Text NED and Turkish character similarity
 - Equation metrics (NED, BLEU, CDM)
 - Table metrics (NED, TEDS)
-- Image metrics (aggregated per document)
+- Image metrics 
 - Counts of extracted elements
 
 ### per_image_metrics.csv
 
 Per-image-pair metrics:
-- MSE, PSNR, SSIM for each image pair
-- Optional LPIPS and DreamSim scores
+- MSE, Dreamsim for each image pair
 - Source file paths
 
 ### summary_metrics.csv
