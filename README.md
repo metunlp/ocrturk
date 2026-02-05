@@ -8,8 +8,6 @@ A comprehensive evaluation framework for comparing OCR model outputs against Tur
 - **Equation Metrics**: BLEU-4, Character Dice Metric (CDM), and NED for LaTeX equations
 - **Table Metrics**: NED and TEDS-like similarity for extracted tables
 - **Image Metrics**: MSE, and DreamSim 
-- **Flexible Pairing**: Intelligent matching of ground truth and model output files
-- **Batch Processing**: Evaluate multiple documents recursively
 
 ## Installation
 
