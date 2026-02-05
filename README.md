@@ -129,6 +129,14 @@ Aggregated statistics across all documents and images.
 If you use this tool in your research, please cite:
 
 ```bibtex
-Upcoming
+@misc{yılmaz2026ocrturkcomprehensiveocrbenchmark,
+      title={OCRTurk: A Comprehensive OCR Benchmark for Turkish}, 
+      author={Deniz Yılmaz and Evren Ayberk Munis and Çağrı Toraman and Süha Kağan Köse and Burak Aktaş and Mehmet Can Baytekin and Bilge Kaan Görür},
+      year={2026},
+      eprint={2602.03693},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.03693}, 
+}
 ```
 
