@@ -7,7 +7,7 @@ A comprehensive evaluation framework for comparing OCR model outputs against Tur
 - **Text Metrics**: Normalized Edit Distance (NED) and Turkish character similarity
 - **Equation Metrics**: BLEU-4, Character Dice Metric (CDM), and NED for LaTeX equations
 - **Table Metrics**: NED and TEDS-like similarity for extracted tables
-- **Image Metrics**: MSE, PSNR, SSIM, LPIPS (optional), and DreamSim (optional)
+- **Image Metrics**: MSE, and DreamSim 
 - **Flexible Pairing**: Intelligent matching of ground truth and model output files
 - **Batch Processing**: Evaluate multiple documents recursively
 
