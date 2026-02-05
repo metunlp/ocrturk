@@ -96,9 +96,6 @@ results/
 ### Image Metrics
 
 - **MSE**: Mean Squared Error (lower is better)
-- **PSNR**: Peak Signal-to-Noise Ratio in dB (higher is better, typical range: 20-40)
-- **SSIM**: Structural Similarity Index (higher is better, range: 0-1)
-- **LPIPS**: Learned Perceptual Image Patch Similarity (lower is better, optional)
 - **DreamSim**: Perceptual similarity metric (lower is better, optional)
 
 ## Output Files
