@@ -96,7 +96,7 @@ results/
 ### Image Metrics
 
 - **MSE**: Mean Squared Error (lower is better)
-- **DreamSim**: Perceptual similarity metric (lower is better, optional)
+- **DreamSim**: Perceptual similarity metric (lower is better)
 
 ## Output Files
 
