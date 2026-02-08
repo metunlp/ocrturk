@@ -1,6 +1,6 @@
 Şekil 3: Fed Bilançosu ve Politika Faiz Oranı
 
-![figür](data_1092/figures/fig_1.png)
+![](figures/figure_1.png)
 
 Kaynak: Bloomberg, FED
 Avro Bölgesi’nde 2024 yılında ekonomik aktivite düşük hızda seyretmiş, ancak yılın ikinci yarısında

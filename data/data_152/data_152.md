@@ -4,7 +4,7 @@ yüzde 54 olurken, bu dönemde istihdamdaki 208 bin kişilik artışa rağmen i�
 bir yükseliş göstermiştir (Şekil 2).
 Şekil 2: İşsizlik ve İşgücüne Katılım Oranı (MEA)
 
-![figür](data_1094/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Kaynak: TÜİK
 Tablo 1: İşgücü Göstergeleri

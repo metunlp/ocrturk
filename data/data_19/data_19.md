@@ -1,4 +1,4 @@
-![](figures/figure_0001.png)
+![](figures/figure_1.png)
 
 Şekil 5. Bazı şehirlere ait kayıp-kaçak oranlarının grafiksel gösterimi
 

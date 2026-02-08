@@ -14,5 +14,5 @@ y \to k_3 e^{r_1 t}
 \end{cases}
 $$
 
-![figür](data_1104/figures/fig_1.png)
-![figür](data_1104/figures/fig_2.png)
+![figür](figures/figure_1.png)
+![figür](figures/figure_2.png)

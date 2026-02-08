@@ -48,7 +48,7 @@ edilmiştir. http://www.nudgingforgood.com/
 
 Şekil 4: Dove Çocuk Ürünlerinde Su Tasarrufu için Bilgilendirme 
 
-![figür](data_1098/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 BREZİLYA’DA OKULLARDA, ŞİRKETLERDE VE SOSYAL
 MEDYADA KULLANILAN MESAJLAR
@@ -78,7 +78,7 @@ için teşekkür mesajı göndermiştir.
 Şekil 5: Ariel Çamaşır Yıkama Derecesi 
 Hakkında Etiket Bilgilendirmesi
 
-![figür](data_1098/figures/fig_2.png)
+![figür](figures/figure_2.png)
 
 2.3.5. Araba satın alma ve uygulanan dürtmeler
 Harvard Ünivesitesi-Ideas42 ve MIT Amerika’da

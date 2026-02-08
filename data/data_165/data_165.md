@@ -15,4 +15,4 @@ az, mutlak eşitlik doğrusuna ne kadar
 uzak ise gelir dağılımında o kadar çok
 eşitsizlik var demektir.
 
-![figür](data_1107/figures/fig_1.png)
+![figür](figures/figure_1.png)

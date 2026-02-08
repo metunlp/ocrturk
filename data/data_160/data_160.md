@@ -30,7 +30,7 @@ tarafından ayrılan kaynaklar oldukça düşüktür (Şekil
 3). Örneğin, İspanya’daki 0-14 yaş nüfus Türkiye’nin 
 
 
-![figür](data_1102/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Kaynak: Eurostat (2024) ve World Bank (t.y.) verileri kullanılarak yazar tarafından hazırlanmıştır.
 Şekil 3 - Kamu ve hanehalkı eğitim harcamaları ile 0-14 yaş çocuk nüfusu ili̇ şkisi̇ , 2022

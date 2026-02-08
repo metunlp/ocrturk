@@ -13,7 +13,7 @@ Ekonomik Görünüm Raporu’na göre bu ülke grubunun 2024 yılında yüzde 1,
 kaydettikten sonra, 2025 ve 2026 yıllarında art arda yüzde 1,6 oranında büyümesi beklenmektedir.
 Şekil 2: Gelişmiş Ülkelerde Büyüme
 
-![figür](data_1091/figures/fig_1.png)
+![](figure_1.png)
 
 
 

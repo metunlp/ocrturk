@@ -53,7 +53,7 @@ istekli ve heyecanlı olsalar da tasarruf yapma planına katılım oranı %14’
 görülmüştür.
 Şekil 6: Emeklilik Planının Kişinin Kendi Resmi Kullanılarak Gösterilmesi 
 
-![figür](data_1099/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Kaynak: https://www.stir.ac.uk/media/stirling/services/faculties/social-sciences/research/documents/
 Nudge-Database-1.2.pdf

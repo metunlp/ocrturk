@@ -12,7 +12,7 @@ toparlanma sağlamıştır. Ancak politika belirsizlikleri, beklentiler üzerind
 etmektedir.
 Şekil 1: Küresel Büyüme 
 
-![figür](data_1090/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 
 

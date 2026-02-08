@@ -29,6 +29,7 @@ $$\text{Rouge F1 Score} = 2 \times \frac{\text{Rouge Recall} \times \text{Rouge 
 Derlemden doğrulama için ayrılan veriler kullanılarak, genel olarak
 özetleme görevlerinin başarımının ölçülmesi için kullanılan ROUGE-
 
+![](figures/figure_1.png)
 Şekil 8. Modelin eğitim doğruluk oranı (Training accuracy rate of the model) 
 
 Tablo 7. Doğrulama verisi ile üretilen başlık-1 (Headline produced with validation data-1) 

@@ -3,7 +3,7 @@ dönüştürerek klasik sinir ağı modelleri için hazırlar.
 -Tam Bağlantılı Katman (Fully-Connected Layer): Öğrenme sürecini
 kolaylaştırmak için ağırlıkları ve önyargıları ayarlar.
 
-![figür](data_1075/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Şekil 3.2 Çalışmada kullanılan CNN modeli ve verisetinin akış şeması
 

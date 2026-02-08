@@ -1,6 +1,6 @@
 okunabilirliğini ve tutarlılığını bozabileceğinden bu yaklaşım tercih edilmiştir
 
-![figür](data_1076/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Şekil 3.3 Eğitim seti boyutuna bağlı test verisinin başarı oranı
 

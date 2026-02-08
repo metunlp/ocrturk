@@ -1,4 +1,4 @@
-![figür](data_1065/figures/fig_1.png)
+![](data_123/figures/figure_1.png)
 
 Şekil 3.1. 𝑁 tane dikdörtgensel bölgeye ayrılmış yaprağın yüzey alanı
 

@@ -6,8 +6,8 @@ Faz düzlem denklemi
 $$\frac{dy}{dx} = \frac{-2(x + y)}{x - y}$$
 olduğundan eşyönlüler: $x - y = 0$ ve $x + y = 0$ doğrularıdır.
 
-![figür](data_1105/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Şekil: Eşyönlüler (oklar zamana baglı denklemden alınmıştır).
 
-![figür](data_1105/figures/fig_2.png)
+![figür](figures/figure_2.png)

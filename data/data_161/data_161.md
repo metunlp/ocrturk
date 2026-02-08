@@ -1,7 +1,7 @@
 
 $$\frac{dP}{dt} = (r - sP)P$$
 
-![figür](data_1103/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Şekil: Lojistik denklemin faz düzlemi
 

@@ -22,7 +22,7 @@ ispatlamıştır.
 
 Şekil 2: Enerji Tasarruf Bilgisi Etiketleme
 
-![figür](data_1097/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Üniversite Öğrencilerine Geri Bildirim
 
@@ -109,4 +109,4 @@ azaltabileceği ve her bir metrik ton elektik kullanımında 165$ tasarruf elde 
 Şekil 3: OPower Elektrik Faturasında Aynı Mahalledeki Komşuların
 Elektrik Tüketimi Karşılaştırması Bilgisini Vermesi
 
-![figür](data_1097/figures/fig_2.png)
+![figür](figures/figure_2.png)

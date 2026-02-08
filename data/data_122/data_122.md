@@ -9,7 +9,7 @@ yılında 1 adet doktora ve 4 adet yüksek lisans, 2022 yılında 1 adet doktora
 yüksek lisans, 2023 Haziran ayı itibariyle 3 adet yüksek lisans tezi yapıldığı tespit
 edilmiştir.
 
-![figür](data_1064/figures/fig_1.png)
+![](figures/figure_1.png)
 
 Şekil 2: Tez Sayılarının Yıllara ve Tez Türüne Göre Dağılımı
 
@@ -24,6 +24,6 @@ ve ekonometri alt alanlarında yapılan üçer tez de yüksek lisans tezi; endü
 mühendisliği ve yazılım mühendisliğinde yapılan ikişer tez de yüksek lisans tezi, iş
 analitiğinde yapılan tek tez de yüksek lisans tezi olduğu tespit edilmiştir.
 
-![figür](data_1064/figures/fig_2.png)
+![](figures/figure_2.png)
 
 Şekil 3: Temel Alan ve Alt Alan İtibariyle Tez Sayıları

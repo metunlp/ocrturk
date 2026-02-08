@@ -49,7 +49,7 @@ bu azalış en az 5 ay devam etmiştir (Rivers, 2018;
 Dünya Bankası, 2020).
 Şekil 1: Akıllı Sayaçlar
 
-![figür](data_1096/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Fatura Aracılığıyla Bilgilendirme
 İtalya’da elektrik ve gaz faturaları yeniden tasarlanıp enerji tüketimi değil maliyeti üzerinden bilgilendirme yapılmıştır. Bunun yanından faturaya

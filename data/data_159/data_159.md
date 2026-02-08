@@ -32,7 +32,7 @@ payının yalnızca yüksek gelirli ülkelerde dünya
 ortalamasının üstünde olduğu görülüyor. 
 
 
-![figür](data_1101/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Kaynak: World Bank ve UNESCO (2025) verileri kullanılarak yazar tarafından hazırlandı.
 Şekil 1 - Ülkelerin gelir gruplarına göre eğitim harcamalarının finansman kaynaklarına göre dağılımı, 2022

@@ -6,6 +6,7 @@ bir uygulama alanı bulmuştur. Dış faktörlerin (örneğin, önceki deneyim, 
 koşullar) yeterince vurgulanmaması ve araştırmacı çalışmalarında zayıf varyans
 sorunları yaşanması gibi durumlar modelin eleştirilmesine neden olmuştur.
 
+![](figures/figure_1.png)
 Şekil 1: Teknoloji Kabul Modeli (Technology Acceptance Model – TAM) (47)
 
 2.4.2. Genişletilmiş Teknoloji Kabul Modeli (TAM2 ve TAM3)

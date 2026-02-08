@@ -37,7 +37,7 @@ ama gerçekleştirmezler.
 düşünülür. 
 Grafik 1: SMarT Programında Para Biriktirme Oranının Diğer Alternatiflerle Karşılaştırılması
 
-![figür](data_1100/figures/fig_1.png)
+![figür](figures/figure_1.png)
 
 Benartzi & Thaler (2004), Save More Tomorrow, Journal of Political Economy
 
@@ -97,4 +97,4 @@ müşteriye iki yıllık nakit akımı, harcama planı,
 para biriktirme hedefi ve bir takvimle günlük harcamaları da gösterilmektedir. Bu uygulama müşterilerin tasarrufunu %10’a kadar artırabilmiştir.
 Şekil 7: Para Yönetimi Konusunda Kişisel Bilgilendirme Ekranı
 
-![figür](data_1100/figures/fig_2.png)
+![figür](figures/figure_2.png)
